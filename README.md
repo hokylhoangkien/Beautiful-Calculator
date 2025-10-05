@@ -15,22 +15,6 @@ Một ứng dụng **máy tính online** được viết bằng **HTML, CSS và 
 
 ---
 
-## 🧩 Cấu trúc project
-
-beautiful-calculator/
-│
-├── index.html
-├── style.css
-├── script.js
-│
-├── img/
-│ ├── background.jpg
-│ └── button.jpg
-│
-└── README.md
-
----
-
 ## 🛠️ Công nghệ sử dụng
 
 - HTML5
