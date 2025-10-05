@@ -53,6 +53,7 @@ h1:hover {
   border-radius: 10px;
   border: none;
   box-shadow: inset 2px 2px 5px #ccc, inset -2px -2px 5px #fff;
+  color: #000000;
 }
 
 .buttons {
