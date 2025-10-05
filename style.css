@@ -5,23 +5,8 @@ body {
   align-items: center;
   background: linear-gradient(145deg, hsl(60, 100%, 77%), #2c2c40);
   font-family: "Inter", sans-serif;
-  margin: 0;
+  margin: 1cm;
   height: 100%;
-}
-
-h1 {
-  text-align: center;
-  margin: 50px;
-  color: #000000;
-  font-weight: bold;
-  box-shadow: 2px 2px 2px gray;
-  border: 1px solid gray;
-  border-radius: 10px;
-  padding: 5px;
-  transition: all 0.4s ease;
-}
-h1:hover {
-  transform: scale(1.1) rotate(10deg);
 }
 
 .calculator {
