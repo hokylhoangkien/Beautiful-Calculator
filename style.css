@@ -1,6 +1,6 @@
 body {
   display: flex;
-  flex-direction: column; /* thêm dòng này */
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   background: linear-gradient(145deg, hsl(60, 100%, 77%), #2c2c40);
