@@ -59,10 +59,6 @@ button {
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
 
-button:hover {
-  transform: scale(1.05);
-}
-
 .clear {
   background: #db6b5f;
   color: #fff;
@@ -89,6 +85,7 @@ button:not(.operator):not(.equal):not(.clear) {
 }
 
 button:hover {
+  transform: scale(1.05);
   filter: brightness(1.2);
 }
 footer {
