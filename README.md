@@ -2,7 +2,7 @@
 
 Một ứng dụng **máy tính online** được viết bằng **HTML, CSS và JavaScript**, có giao diện đẹp và hiệu ứng động.
 
-🔗 **Xem demo trực tiếp:** [Beautiful Calculator trên Netlify](https://beautifulcaculator.netlify.app/)
+🔗 **Xem demo trực tiếp:** [Beautiful Calculator Demo](https://hokylhoangkien.github.io/Beautiful-Calculator/)
 
 ---
 
